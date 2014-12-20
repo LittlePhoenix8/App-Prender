@@ -1,0 +1,211 @@
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\ApplicationIcon.png
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\Background.png
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\AppAprender.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\AppAprender.pdb
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\AppManifest.xaml
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\AppAprender.xap
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.xml
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\AppAprender.csprojResolveAssemblyReference.cache
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\App.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\MainPage.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\PaginaNiveles.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\AppAprender.g.resources
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\AppAprender.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\AppAprender.pdb
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\XapCacheFile.xml
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\Niveles.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\Imagenes1.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\Imagenes2.g.cs
+c:\users\jaime acevedo\documents\visual studio 2012\Projects\AppAprender\AppAprender\obj\Debug\Imagenes3.g.cs
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\ApplicationIcon.png
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\Background.png
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\AppAprender.dll
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\AppAprender.pdb
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\AppManifest.xaml
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\AppAprender.xap
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Damian\Desktop\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\AppAprender.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\Imagenes1.g.cs
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\Imagenes2.g.cs
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\Imagenes3.g.cs
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\MainPage.g.cs
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\Niveles.g.cs
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\PaginaNiveles.g.cs
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\AppAprender.g.resources
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\AppAprender.dll
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\AppAprender.pdb
+C:\Users\Damian\Desktop\AppAprender\AppAprender\obj\Debug\XapCacheFile.xml
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ApplicationIcon.png
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Background.png
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.dll
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.pdb
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppManifest.xaml
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.xap
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.dll
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.xml
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.xml
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.csprojResolveAssemblyReference.cache
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\App.g.cs
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Imagenes1.g.cs
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Imagenes2.g.cs
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Imagenes3.g.cs
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\MainPage.g.cs
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Niveles.g.cs
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\PaginaNiveles.g.cs
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.g.resources
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.dll
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.pdb
+G:\AppAprender\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\XapCacheFile.xml
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ApplicationIcon.png
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Background.png
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.dll
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.pdb
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppManifest.xaml
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.xap
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\App.g.cs
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Pintar\Imagenes1.g.cs
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Pintar\Imagenes2.g.cs
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Pintar\Imagenes3.g.cs
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\MainPage.g.cs
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Niveles.g.cs
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\PaginaNiveles.g.cs
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.g.resources
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.dll
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.pdb
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\XapCacheFile.xml
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Mezclar\MainPage.g.cs
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Mezclar\NivelAgua.g.cs
+C:\Users\Jaime Acevedo\Desktop\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Mezclar\NivelAuto.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ApplicationIcon.png
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Background.png
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\animalNivel1.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\animalNivel2.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Mezclar\MainPage.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Mezclar\NivelAgua.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Mezclar\NivelAuto.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Pintar\Imagenes1.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Pintar\Imagenes2.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Pintar\Imagenes3.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\MainPage.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Niveles.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\PaginaNiveles.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppManifest.xaml
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\XapCacheFile.xml
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraE.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraI.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraO.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\ImagenesLetraA.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\ImagenesLetraE.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\ImagenesLetraI.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\LetraO.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\LetraU.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraU.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraA.g.cs
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.pdb
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.xap
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.g.resources
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.dll
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.pdb
+C:\Users\Damian\Desktop\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ApplicationIcon.png
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Background.png
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\App.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Mezclar\MainPage.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Mezclar\NivelAgua.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Mezclar\NivelAuto.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Pintar\Imagenes1.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Pintar\Imagenes2.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Colores\Pintar\Imagenes3.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\MainPage.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Niveles.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\PaginaNiveles.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraE.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraI.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraO.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\ImagenesLetraA.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\ImagenesLetraE.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\ImagenesLetraI.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\LetraO.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\Letras\LetraU.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraU.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Vocales\LetraA.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.g.resources
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.dll
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\AppAprender.pdb
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppManifest.xaml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\Bin\Debug\AppAprender.xap
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\XapCacheFile.xml
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Animales\animalNivel1.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Animales\animalNivel2.g.cs
+C:\Users\Jaime Acevedo\Documents\Visual Studio 2012\Projects\App-prendo\Esta ES !!!!!\Apprender_Con_Graficas\AppAprender\AppAprender\obj\Debug\Animales\animalNivel3.g.cs

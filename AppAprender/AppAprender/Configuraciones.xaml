@@ -1,0 +1,48 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="AppAprender.Configuraciones"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:telerikCore="clr-namespace:Telerik.Windows;assembly=Telerik.Windows.Core"
+    xmlns:telerikPrimitive="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Primitives"
+    xmlns:telerik ="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Input"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contiene el nombre de la aplicación y el título de la página-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <Image Source="/Icons/logoAppPrender.jpg" Stretch="Fill" HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Width="239" />
+            <Image Source="/Icons/configuracionesTitulo.png" Stretch="Fill" Height="100"  Width="337"/>
+        </StackPanel>
+
+        <!--ContentPanel. Colocar aquí el contenido adicional-->
+        <StackPanel x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <telerikPrimitive:RadToggleSwitch  IsChecked="True" Header="Instrucciones" Name="instrucciones" Foreground="Black" ></telerikPrimitive:RadToggleSwitch>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Volumen" Grid.Column="0" Foreground="Black"/>
+                <TextBlock TextAlignment="Right" Text="{Binding ElementName=sliderVolumen, Path=Value,Mode=TwoWay}" Grid.Column="1" Foreground="Black"/>
+            </Grid>
+            <Slider  IsHitTestVisible="True" Name="sliderVolumen" Minimum="0" Maximum="10" Value="5" Background="Black" BorderBrush="Black"></Slider>
+            <Button Content="Guardar" Click="Button_Click" Background="White" BorderBrush="Black" Foreground="Black"/>
+        </StackPanel>
+    </Grid>
+
+</phone:PhoneApplicationPage>

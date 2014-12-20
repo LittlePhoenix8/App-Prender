@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EE0264D9-AA62-469A-A819-ABAA90531372}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AppAprender</RootNamespace>
+    <AssemblyName>AppAprender</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>AppAprender.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>AppAprender.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <ExpressionBlendVersion>5.0.40218.0</ExpressionBlendVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Drawing, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Toolkit">
+      <HintPath>..\packages\WPToolkit.4.2013.06.11\lib\sl4-windowsphone71\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+    <Reference Include="Telerik.Windows.Controls.Input, Version=2013.2.718.2040, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Primitives, Version=2013.2.718.2040, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Core, Version=2013.2.718.2040, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animales\animalNivel1.xaml.cs" />
+    <Compile Include="Animales\animalNivel2.xaml.cs" />
+    <Compile Include="Animales\animalNivel3.xaml.cs" />
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Colores\Mezclar\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Colores\Mezclar\NivelAgua.xaml.cs">
+      <DependentUpon>NivelAgua.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Colores\Mezclar\NivelAuto.xaml.cs">
+      <DependentUpon>NivelAuto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Colores\Pintar\Imagenes1.xaml.cs">
+      <DependentUpon>Imagenes1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Colores\Pintar\Imagenes2.xaml.cs">
+      <DependentUpon>Imagenes2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Colores\Pintar\Imagenes3.xaml.cs">
+      <DependentUpon>Imagenes3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Configuraciones.xaml.cs">
+      <DependentUpon>Configuraciones.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles.xaml.cs">
+      <DependentUpon>Niveles.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaNiveles.xaml.cs">
+      <DependentUpon>PaginaNiveles.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recursos.cs" />
+    <Compile Include="SeguirInstrucciones.cs" />
+    <Compile Include="TiltEffect.cs" />
+    <Compile Include="Vocales\LetraE.xaml.cs">
+      <DependentUpon>LetraE.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vocales\LetraI.xaml.cs">
+      <DependentUpon>LetraI.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vocales\LetraO.xaml.cs">
+      <DependentUpon>LetraO.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vocales\Letras\ImagenesLetraA.xaml.cs">
+      <DependentUpon>ImagenesLetraA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vocales\Letras\ImagenesLetraE.xaml.cs">
+      <DependentUpon>ImagenesLetraE.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vocales\Letras\ImagenesLetraI.xaml.cs">
+      <DependentUpon>ImagenesLetraI.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vocales\Letras\LetraO.xaml.cs">
+      <DependentUpon>LetraO.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vocales\Letras\LetraU.xaml.cs">
+      <DependentUpon>LetraU.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vocales\LetraU.xaml.cs">
+      <DependentUpon>LetraU.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vocales\LetraA.xaml.cs">
+      <DependentUpon>LetraA.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="Animales\animalNivel1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Animales\animalNivel2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Animales\animalNivel3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Colores\Mezclar\MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Colores\Mezclar\NivelAgua.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Colores\Mezclar\NivelAuto.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Colores\Pintar\Imagenes1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Colores\Pintar\Imagenes2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Colores\Pintar\Imagenes3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Configuraciones.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Niveles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PaginaNiveles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vocales\LetraE.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vocales\LetraI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vocales\LetraO.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vocales\Letras\ImagenesLetraA.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vocales\Letras\ImagenesLetraE.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vocales\Letras\ImagenesLetraI.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vocales\Letras\LetraO.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vocales\Letras\LetraU.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vocales\LetraU.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Vocales\LetraA.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Animales\tituloSonidos.jpg" />
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\animales.jpg" />
+    <Content Include="Icons\animalesBloqueado.png" />
+    <Content Include="Icons\caballo.jpg" />
+    <Content Include="Icons\candado1.png" />
+    <Content Include="Icons\cerdo_1_0.jpg" />
+    <Content Include="Icons\colores-lapices.jpg" />
+    <Content Include="Icons\configuracionesTitulo.png" />
+    <Content Include="Icons\error.png" />
+    <Content Include="Icons\gallina_blanca.jpg" />
+    <Content Include="Icons\Help.png" />
+    <Content Include="Icons\InstruccionesLogoApp.jpg" />
+    <Content Include="Icons\las-10-razas-de-perros2.jpg" />
+    <Content Include="Icons\logoAjugar.jpg" />
+    <Content Include="Icons\logoAppPrender.jpg" />
+    <Content Include="Icons\logoApp_AppPrender.png" />
+    <Content Include="Icons\Luciernaga.jpg" />
+    <Content Include="Icons\ok.png" />
+    <Content Include="Icons\proximamenteLogoApp.jpg" />
+    <Content Include="Icons\psicologia-infantil-colores.jpg" />
+    <Content Include="Icons\splash.jpg" />
+    <Content Include="Icons\tituloSonidos.jpg" />
+    <Content Include="Icons\vocales.png" />
+    <Content Include="Icons\vocalesBloqueado.png" />
+    <Content Include="Icons\vocalU.jpg" />
+    <Content Include="Icons\vocalesLogoApp.jpg" />
+    <Content Include="Icons\Vocal_A.jpg" />
+    <Content Include="Icons\Vocal_E.jpg" />
+    <Content Include="Icons\Vocal_i.jpg" />
+    <Content Include="Icons\Vocal_O.jpg" />
+    <Content Include="imagenes\coloresPintados\cat1_color.png" />
+    <Content Include="imagenes\coloresPintados\cat2_color.png" />
+    <Content Include="imagenes\coloresPintados\fish1_color.png" />
+    <Content Include="imagenes\coloresPintados\fish2_color.png" />
+    <Content Include="imagenes\coloresPintados\fish3_color.png" />
+    <Content Include="imagenes\coloresPintados\frog1_color.png" />
+    <Content Include="imagenes\coloresPintados\frog2_color.png" />
+    <Content Include="imagenes\coloresPintados\frog3_color.png" />
+    <Content Include="imagenes\colores\cat1.png" />
+    <Content Include="imagenes\colores\cat2.png" />
+    <Content Include="imagenes\colores\fish1.png" />
+    <Content Include="imagenes\colores\fish2.png" />
+    <Content Include="imagenes\colores\fish3.png" />
+    <Content Include="imagenes\colores\frog1.png" />
+    <Content Include="imagenes\colores\frog2.png" />
+    <Content Include="imagenes\colores\frog3.png" />
+    <Content Include="imagenes\fotosMesclar\car.png" />
+    <Content Include="imagenes\fotosMesclar\car_blue.png" />
+    <Content Include="imagenes\fotosMesclar\car_green.png" />
+    <Content Include="imagenes\fotosMesclar\car_yellow.png" />
+    <Content Include="imagenes\fotosMesclar\flor.png" />
+    <Content Include="imagenes\fotosMesclar\flor_blue.png" />
+    <Content Include="imagenes\fotosMesclar\flor_purple.png" />
+    <Content Include="imagenes\fotosMesclar\flor_red.png" />
+    <Content Include="imagenes\fotosMesclar\water.png" />
+    <Content Include="imagenes\fotosMesclar\water_blue.png" />
+    <Content Include="imagenes\fotosMesclar\water_cyan.png" />
+    <Content Include="imagenes\fotosMesclar\water_white.png" />
+    <Content Include="imagenes\vocales\letraA\auto.png" />
+    <Content Include="imagenes\vocales\letraA\avion.png" />
+    <Content Include="imagenes\vocales\letraA\mochila.png" />
+    <Content Include="imagenes\vocales\letraA\pastel.png" />
+    <Content Include="imagenes\vocales\letraA\zanahoria.png" />
+    <Content Include="imagenes\vocales\LetraE\arbol.png" />
+    <Content Include="imagenes\vocales\LetraE\Elefante.png" />
+    <Content Include="imagenes\vocales\LetraE\Estrella.png" />
+    <Content Include="imagenes\vocales\LetraE\galleta.png" />
+    <Content Include="imagenes\vocales\LetraE\huevo.png" />
+    <Content Include="imagenes\vocales\LetraI\iglu.png" />
+    <Content Include="imagenes\vocales\LetraI\isla.png" />
+    <Content Include="imagenes\vocales\LetraI\mascara.png" />
+    <Content Include="imagenes\vocales\LetraI\telefono.png" />
+    <Content Include="imagenes\vocales\LetraI\zorro.png" />
+    <Content Include="imagenes\vocales\LetraO\ampolleta.png" />
+    <Content Include="imagenes\vocales\LetraO\extintor.png" />
+    <Content Include="imagenes\vocales\LetraO\index_pollito.png" />
+    <Content Include="imagenes\vocales\LetraO\ojo.png" />
+    <Content Include="imagenes\vocales\LetraO\Oso.png" />
+    <Content Include="imagenes\vocales\LetraU\globo.png" />
+    <Content Include="imagenes\vocales\LetraU\helado.png" />
+    <Content Include="imagenes\vocales\LetraU\televisor.png" />
+    <Content Include="imagenes\vocales\LetraU\uno.png" />
+    <Content Include="imagenes\vocales\LetraU\uva.png" />
+    <Content Include="README_FIRST.txt" />
+    <Content Include="Sonidos\39_eljie_animal.wma" />
+    <Content Include="Sonidos\45proximamente.wma" />
+    <Content Include="Sonidos\caballo.mp3" />
+    <Content Include="Sonidos\cerdaco.mp3" />
+    <Content Include="Sonidos\delfin.mp3" />
+    <Content Include="Sonidos\DescubreCaballo.mp3" />
+    <Content Include="Sonidos\DescubreChanchito.mp3" />
+    <Content Include="Sonidos\luciernaga.mp3" />
+    <Content Include="Sonidos\obeja.mp3" />
+    <Content Include="Sonidos\pato.mp3" />
+    <Content Include="Sonidos\perro.mp3" />
+    <Content Include="Sonidos\pollo.mp3" />
+    <Content Include="Sonidos\rana.mp3" />
+    <Content Include="Sonidos\Voces\Ampolleta.mp3" />
+    <Content Include="Sonidos\Voces\Arbol.mp3" />
+    <Content Include="Sonidos\Voces\Auto.mp3" />
+    <Content Include="Sonidos\Voces\Avion.mp3" />
+    <Content Include="Sonidos\Voces\celular.mp3" />
+    <Content Include="Sonidos\Voces\Elefante.mp3" />
+    <Content Include="Sonidos\Voces\ElijeAnimalCorrecto.mp3" />
+    <Content Include="Sonidos\Voces\Estrella.mp3" />
+    <Content Include="Sonidos\Voces\Extintor.mp3" />
+    <Content Include="Sonidos\Voces\Galleta.mp3" />
+    <Content Include="Sonidos\Voces\Globo.mp3" />
+    <Content Include="Sonidos\Voces\Helado.mp3" />
+    <Content Include="Sonidos\Voces\Huevo.mp3" />
+    <Content Include="Sonidos\Voces\iglu.mp3" />
+    <Content Include="Sonidos\Voces\IntentaloOtraVez.mp3" />
+    <Content Include="Sonidos\Voces\isla.mp3" />
+    <Content Include="Sonidos\Voces\LetraA.mp3" />
+    <Content Include="Sonidos\Voces\LetraE.mp3" />
+    <Content Include="Sonidos\Voces\LetraI.mp3" />
+    <Content Include="Sonidos\Voces\LetraO.mp3" />
+    <Content Include="Sonidos\Voces\LetraU.mp3" />
+    <Content Include="Sonidos\Voces\Mascara.mp3" />
+    <Content Include="Sonidos\Voces\MezclarColorCeleste.mp3" />
+    <Content Include="Sonidos\Voces\MezclarColorMorado.mp3" />
+    <Content Include="Sonidos\Voces\MezclarColorVerde.mp3" />
+    <Content Include="Sonidos\Voces\Mochila.mp3" />
+    <Content Include="Sonidos\Voces\MuyBien.mp3" />
+    <Content Include="Sonidos\Voces\Ojos.mp3" />
+    <Content Include="Sonidos\Voces\Oso.mp3" />
+    <Content Include="Sonidos\Voces\PintarGatoPelota.mp3" />
+    <Content Include="Sonidos\Voces\PintarPez.mp3" />
+    <Content Include="Sonidos\Voces\PintarRana.mp3" />
+    <Content Include="Sonidos\Voces\Pollo.mp3" />
+    <Content Include="Sonidos\Voces\Proximamente.mp3" />
+    <Content Include="Sonidos\Voces\Television.mp3" />
+    <Content Include="Sonidos\Voces\TocaComienzaA.mp3" />
+    <Content Include="Sonidos\Voces\TocaComienzaE.mp3" />
+    <Content Include="Sonidos\Voces\TocaComienzaI.mp3" />
+    <Content Include="Sonidos\Voces\TocaComienzaO.mp3" />
+    <Content Include="Sonidos\Voces\TocaComienzaU.mp3" />
+    <Content Include="Sonidos\Voces\Torta.mp3" />
+    <Content Include="Sonidos\Voces\Uno.mp3" />
+    <Content Include="Sonidos\Voces\uva.mp3" />
+    <Content Include="Sonidos\Voces\Zanahoria.mp3" />
+    <Content Include="Sonidos\Voces\Zorro.mp3" />
+    <Content Include="SplashScreenImage.jpg" />
+    <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Check.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Delete.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Select.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

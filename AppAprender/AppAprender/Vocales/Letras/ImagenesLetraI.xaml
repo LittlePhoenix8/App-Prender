@@ -1,0 +1,110 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Vocales.Letras.ImagenesLetraI"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:RotateTransition Mode="In90Clockwise"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:RotateTransition Mode="In90Counterclockwise"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:RotateTransition Mode="Out180Clockwise"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:RotateTransition Mode="Out180Counterclockwise"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Canvas x:Name="LayoutRoot" Background="White">
+        <Canvas.Resources>
+            <Storyboard x:Name="animacionIsla">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgIsla">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0.284"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-31.358"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="36.534"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0.019"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="animacionMascara">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgMascara">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="-0.299"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-39.89"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="34.225"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="-0.715"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="animacionTelefono">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgTelefono">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0.027"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-30.159"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="37.587"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="-0.28"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="animacionIglu">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgIglu">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0.027"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-30.159"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="37.587"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="-0.28"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="animacionZorro">
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="imgZorro">
+                    <EasingDoubleKeyFrame KeyTime="0" Value="0.027"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-30.159"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1" Value="37.587"/>
+                    <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="-0.28"/>
+                </DoubleAnimationUsingKeyFrames>
+            </Storyboard>
+        </Canvas.Resources>
+        <Image Name="imgIglu" Height="218" Canvas.Left="25" Source="../../imagenes/vocales/LetraI/iglu.png" Stretch="Fill" Canvas.Top="515" Width="228">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="imgIsla" Height="191" Canvas.Left="10" Source="../../imagenes/vocales/LetraI/isla.png" Stretch="Fill" Canvas.Top="192" Width="242" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="imgMascara" Height="158" Canvas.Left="347" Source="../../imagenes/vocales/LetraI/mascara.png" Stretch="Fill" Canvas.Top="175" Width="112" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="imgTelefono" Height="192" Canvas.Left="226" Source="../../imagenes/vocales/LetraI/telefono.png" Stretch="Fill" Canvas.Top="341" Width="188" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="imgZorro" Height="195" Canvas.Left="319" Source="../../imagenes/vocales/LetraI/zorro.png" Stretch="Fill" Canvas.Top="571" Width="149">
+            <Image.RenderTransform>
+                <CompositeTransform/>
+            </Image.RenderTransform>
+        </Image>
+        <Image Source="/Icons/logoAppPrender.jpg" Stretch="Fill" HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Width="239" Canvas.Left="10" Canvas.Top="10"/>
+        <Image Source="/Icons/Vocal_i.jpg" Stretch="Fill" Height="100" Canvas.Left="10" Canvas.Top="75" Width="337"/>
+    </Canvas>
+
+</phone:PhoneApplicationPage>
